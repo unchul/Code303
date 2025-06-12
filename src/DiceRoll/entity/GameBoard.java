@@ -1,5 +1,5 @@
 package DiceRoll.entity;
-
+//플레이어를 객체로 저장
 public class GameBoard {
     private final String player1;
     private final String player2;

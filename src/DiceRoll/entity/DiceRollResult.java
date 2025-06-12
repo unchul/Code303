@@ -1,5 +1,5 @@
 package DiceRoll.entity;
-
+//주사위 던진걸 객체로 저장
 public class DiceRollResult {
     private final int[] dice; // 최대 3개의 주사위
     private int total;
